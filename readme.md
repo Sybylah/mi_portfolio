@@ -6,11 +6,15 @@ Mi objetivo es estudiar IA y Master Data
 
 
 
-##Proyectos en curso, acabar los deberes
+\##Proyectos en curso, acabar los deberes
 
-##Idiomas, japones, alto élfico, ingles y español
+\##Idiomas, japones, alto élfico, ingles y español
 
 
 
-##Contacto, con_tacto
+\##Contacto, con\_tacto
+
+
+
+\##Habilidades, retrogames, PS2 y Nintendo DS
 
