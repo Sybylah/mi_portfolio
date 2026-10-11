@@ -8,3 +8,7 @@ Mi objetivo es estudiar IA y Master Data
 
 \##Proyectos en curso, acabar los deberes
 
+
+
+\##Contacto, con\_tacto
+
